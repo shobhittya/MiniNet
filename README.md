@@ -6,9 +6,11 @@
  
  # Requirements
  
-Python 3.5
-Numpy 1.14.2
-Keras 2.1.5
+1) Python 3.5
+2) Numpy 1.14.2
+3) Keras 2.1.5
+4) Pandas
+5) Tensorflow
 
 # Dataset
 
