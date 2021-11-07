@@ -9,8 +9,8 @@
 1) Python 3.5
 2) Numpy 1.14.2
 3) Keras 2.1.5
-4) Pandas
-5) Tensorflow
+4) Pandas 1.3.4
+5) Tensorflow 2.6.0
 
 # Dataset
 
