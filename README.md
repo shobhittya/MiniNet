@@ -1,4 +1,4 @@
-# Mini_Net : A CNN for Image Forgery detection
+# MiniNet : A CNN for Image Forgery detection
 
 # Abstract
 
