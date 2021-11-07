@@ -17,6 +17,12 @@
 1) 140K Real and Fake Faces (RFF) dataset : https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
 2) CASIA Dataset : https://github.com/namtpham/casia1groundtruth
 
+# Weights
+To download pretrained weights for the model
+Trained on Deepfake : https://drive.google.com/file/d/1Ju9yR9vwwPzuBwR_ZQPeLhjte3zJlgYN/view?usp=sharing
+Trained on both datasets : https://drive.google.com/file/d/1w-Z5X6-c-2_9Wdp9v0QpGTlesUATPe6S/view?usp=sharing
+
+
 # Authors
 Shobhit Tyagi, Divakar Yadav
 National Institute of Technology, Hamirpur, India
