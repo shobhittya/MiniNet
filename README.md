@@ -26,4 +26,7 @@ Trained on both datasets : https://drive.google.com/file/d/1w-Z5X6-c-2_9Wdp9v0Qp
 # Authors
 Shobhit Tyagi, Divakar Yadav
 National Institute of Technology, Hamirpur, India Email :shobhit.tya@gmail.com, dsy99@rediffmail.com.
-Accepted in Evolving systems - Springer
+
+# Citation 
+Please Cite this article :
+Tyagi, S., Yadav, D. MiniNet: a concise CNN for image forgery detection. Evolving Systems (2022). https://doi.org/10.1007/s12530-022-09446-0
